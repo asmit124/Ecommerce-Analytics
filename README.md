@@ -2,8 +2,6 @@
 
 Successful ecommerce businesses need to optimize every stage of the customer journey, from first touch to purchase. This ecommerce dashboard is a curated set of metrics, KPIs and other data that’s designed to highlight, in the clearest possible way, trends, anomalies and information related to an online store that regularly warrants attention.
 
-Dashboard Link: https://public.tableau.com/views/EcommerceSalesAnalysisDashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
-
 Attributes present in given Dataset:
 1. Additional Order items	
 2. Category Name	
