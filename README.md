@@ -1,4 +1,5 @@
 📊 E-Commerce Sales Analytics Dashboard
+🔗 Live Demo:https://ecommerce-analytics1-d9prowngtyeqblir3f4pfs.streamlit.app/
 
 A powerful, interactive analytics dashboard built with Python and Streamlit. This tool transforms raw e-commerce sales data into actionable insights, featuring automated data cleaning, executive KPIs, and advanced Customer Segmentation (RFM Analysis).
 
