@@ -32,7 +32,7 @@ Date Range Filtering: Dynamically slice data by specific time periods.
 
 Clone the repository
 
-git clone [https://github.com/yourusername/ecommerce-dashboard.git](https://github.com/yourusername/ecommerce-dashboard.git)
+git clone [https://github.com/asmit124/Ecommerce-Analytics_1](https://github.com/asmit124/Ecommerce-Analytics_1)
 cd ecommerce-dashboard
 
 
