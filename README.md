@@ -119,6 +119,4 @@ Data Processing: Pandas & NumPy
 
 Visualization: Plotly Express
 
-📄 License
 
-This project is open-source and available under the MIT License.
